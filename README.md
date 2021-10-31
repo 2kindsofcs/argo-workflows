@@ -30,6 +30,7 @@ Argo is a [Cloud Native Computing Foundation (CNCF)](https://cncf.io/) hosted pr
 
 * Argo Workflows is the most popular workflow execution engine for Kubernetes.
 * It can run 1000s of workflows a day, each with 1000s of concurrent tasks.
+![massive-workflow-example](docs/assets/massive-workflow-example.png)
 * Our users say it is lighter-weight, faster, more powerful, and easier to use
 * Designed from the ground up for containers without the overhead and limitations of legacy VM and server-based
   environments.
